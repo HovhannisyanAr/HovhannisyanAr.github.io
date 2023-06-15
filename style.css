@@ -708,4 +708,23 @@ button {
     .history-number {
         justify-content: space-between;
     }  
+
+    .card-desc {
+        padding-bottom: 25px;
+    }
+
+    .burger-text span {
+        display: none;
+    }
+
+    .cook-images {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .cook-img {
+        width: 90%;
+    }
 }
